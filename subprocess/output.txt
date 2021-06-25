@@ -1,0 +1,5 @@
+total 12
+drwxrwxr-x 2 jacob jacob 4096 Jun 25 07:39 .
+drwxrwxr-x 6 jacob jacob 4096 Jun 24 21:26 ..
+-rw-rw-r-- 1 jacob jacob  300 Jun 25 07:39 main.py
+-rw-rw-r-- 1 jacob jacob    0 Jun 25 07:39 output.txt
